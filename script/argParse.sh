@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # 引数解析例
 while getopts t:e:p:g OPT
